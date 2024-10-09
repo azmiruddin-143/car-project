@@ -1,3 +1,3 @@
-# This is a large heading (H1)
-## This is a smaller heading (H2)
-### This is an even smaller heading (H3)
+# This is a large heading 
+## This is a smaller heading 
+### This is an even smaller heading 
