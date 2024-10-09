@@ -6,4 +6,11 @@
 * Simple and User-Friendly Interface
 * Responsive Design
 * Fast Data Filtering
-  
+# ES6 features used
+* Arrow Functions
+* Template Literals
+* Destructuring
+* Let and Const
+* Default Parameters
+* Promises
+ 
